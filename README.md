@@ -1,3 +1,4 @@
+Test from phone
 # FinPulse — Telegram Indian Market Intelligence Bot
 
 FinPulse is an agentic, production-grade Telegram bot designed for Indian financial markets (NSE). It provides automated post-open market digests (9:25 AM IST), interactive stock technical + ML signals with charts, and custom strategy backtesting simulations, alongside integration options for Zerodha portfolio tracking.
